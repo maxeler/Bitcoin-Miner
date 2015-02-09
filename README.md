@@ -1,1 +1,1 @@
-# Bitcoin-Miner
+# Bitcoin Miner
